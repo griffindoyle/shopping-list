@@ -3,3 +3,5 @@ water
 bread
 beef
 bacon
+eggs
+cookies
