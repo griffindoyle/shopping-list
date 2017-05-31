@@ -5,3 +5,6 @@ beef
 bacon
 eggs
 cookies
+balloons
+streamers
+cake
